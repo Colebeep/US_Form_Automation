@@ -1,3 +1,15 @@
+
+Information on the structure of the CSV:
+    T90,T101,T103,CA93,CA94,CA95,T102,T104
+    NW: 103/-38,NW: 169/-41.12,NW: 177/-64,NW: 27/12,NW1: 19/17; NW2:21/16,NW: 44/-16,NW: 190/-53,NW: 191/53
+    NE: 110/-38,NE: 171/-41.90,NE: 182/-64,NE: 30/12,NE1: 21/17; NE2: 23/16,NE: 47/-16,NE: 191/-53,NE: 194/53
+    SE: 110/-48,SE: 171/-44,SE: 182/-67,SE: 30/09,SE1: 21/12; SE2: 23/13,SE: 47/-20,SE: 191/-56,SE: 194/56
+    SW: 103/-38,SW: 169/-44,SW1: 179/-67,SW: 27/09,SW1: 19/12; SW2: 21/13,SW: 44/-20,SW: 190/-56,SW: 191/56
+    ,,SW2: 179/-66,,,,,
+    ,,SW3: 177/-66,,,,,
+
+note the different coordinate naming conventions, it is okay to have multiple. N and E are positive directions, S and W are negative.
+
 What is kobo_input_all.xlsx?
     This is all the data
 
